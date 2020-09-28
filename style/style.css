@@ -1,0 +1,196 @@
+/*mi clase para el color de mi pagina*/
+.colorpag{
+    background-color: skyblue;
+}
+
+/*para mi encabezado*/
+.encabezado{
+    width: 100%;
+    background-color: goldenrod;
+    overflow: hidden;
+    border-color: maroon;
+    border-style: solid;
+    
+}
+
+.cuerp1{
+    width: 100%;
+    background-color: rgb(151, 255, 173);
+    overflow: hidden;
+    
+}
+
+.cuerp2{
+    width: 100%;
+    background-color: rgb(223, 0, 243);
+    overflow: hidden;
+    
+}
+
+.cuerp3{
+    width: 100%;
+    background-color: rgb(0, 243, 122);
+    overflow: hidden;
+    
+}
+
+/*clase para centrar mi titulo,tipo de letra, mis subtitulos e imagenes*/
+.centrado{
+    text-align: center;
+}
+
+/*para mi imagen de encabezado*/
+.img{
+    border-color: green;
+    border-style: solid;
+    height: 100%;
+    width: 40%;
+    border-radius: 10%;
+}
+
+/*clase entrar mis imagenes de mi encabezado*/
+.icon{
+    border-color: green;
+    border-style: solid;
+    height: 30px;
+    width: 30px;
+    border-radius: 5%;
+}
+
+/*clase entrar mis imagenes de encabezado*/
+.centrado3{
+    text-align: center;
+}
+
+/*clase para dar color al borde a mi imagen*/
+.borderimagen{
+    border-color: chartreuse;
+    border-style: solid;
+    height: 68%;
+    width: 68%;
+    border-radius: 20%;
+}
+
+/*clase para dar color al borde a mi imagen*/
+.borderimagens{
+    border-color: chartreuse;
+    border-style: solid;
+    height: 78%;
+    width: 78%;
+    border-radius: 20%;
+}
+
+/*clase para dar color al borde a mi imagen*/
+.borderimagen1{
+    border-color: chartreuse;
+    border-style: solid;
+    height: 58%;
+    width: 58%;
+    border-radius: 20%;
+}
+
+/*clase para dar color al borde a mi imagen de mi card*/
+.borderimagen2{
+    border-color: chartreuse;
+    border-style: solid;
+    height: 70%;
+    width: 90%;
+    border-radius: 20%;
+    margin: auto;
+}
+
+/*clase para dar color al borde a mi imagen de certificado*/
+.borderimagen3{
+    border-color: chartreuse;
+    border-style: solid;
+    height: 10%;
+    width: 13%;
+    border-radius: 20%;
+}
+
+/*clase para dar color al borde a mis imagenenes*/
+.border{
+    height: 180px;
+    width: 180px;
+}
+
+/*clase para centrar carousel*/
+.centrarCar{
+    margin: auto;
+}
+
+/*clase para dar espacio a la primera linea*/
+.text{
+    text-indent: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*clase para centrar mi menu*/
+.centrado2{
+    justify-content: center;
+    background-color: lightgreen;
+}
+
+/*clase para da color a mi titulo de mi tabla*/
+.colortab1{
+    background-color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*clase para dar color a las columnas de mi tabla y tipo de letra*/
+.colortab2{
+    background-color: turquoise;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*clase para dar color a mis celdas de mi tabla y tipo de letra*/
+.colortab3{
+    background-color: springgreen;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*clase para dar color a las columnas de mi tabla y tipo de letra*/
+.colortab4{
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*clase para dar espacio a la primera linea y tipo de letra*/
+.text2{
+    text-indent: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*para dar color a la las palabras de mi menu */
+.colb{
+   text-align: center;
+   color: rgb(238, 111, 8);
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+/*para dar color al fondo de mi card */
+.card2{
+    background-color: khaki;
+    float: left;
+}
+
+/*clase para dar color al margen de mi video*/
+.bordervideo{
+    border-color: deeppink;
+    border-style: solid;
+    margin: auto;
+}
+
+/*clase entrar mis imagenes de pie de pag.*/
+.icon2{
+    border-color: green;
+    border-style: solid;
+    height: 50px;
+    width: 45px;
+    border-radius: 5%;
+}
+
+.letra{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
