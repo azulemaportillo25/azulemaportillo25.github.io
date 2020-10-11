@@ -1,3 +1,4 @@
+/*css que se utliza en el index como boton, parrafos e imagenes*/
 .center, .center-column, .top, .right, .bottom, .left {
 	display: flex;
 	justify-content: center;
